@@ -1,0 +1,3 @@
+com\example\textsummarizer\controller\TextSummarizerController.class
+com\example\textsummarizer\TextsummarizerApplication.class
+com\example\textsummarizer\service\TextSummarizerService.class
